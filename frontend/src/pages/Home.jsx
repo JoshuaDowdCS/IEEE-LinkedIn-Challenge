@@ -129,7 +129,7 @@ export default function Home() {
                 <li className="flex gap-4 relative">
                   <div className="w-7 h-7 rounded-full bg-neutral-800 border-2 border-purple-500/50 flex items-center justify-center text-xs font-bold text-white z-10 shrink-0">2</div>
                   <div className="pt-1">
-                    <a href="https://magenta-pumpkin-458.notion.site/32a61c43500a802a9d12cb1a6def9d21?pvs=105" target="_blank" rel="noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors font-medium">Log your weekly post</a> to verify you are still active!
+                    <a href="https://magenta-pumpkin-458.notion.site/32a61c43500a802a9d12cb1a6def9d21?pvs=105" target="_blank" rel="noreferrer" className="text-purple-400 hover:text-purple-300 transition-colors font-medium">Log your weekly post</a> by <strong>Sunday at 11:59 PM</strong> to verify you are still active!
                   </div>
                 </li>
               </ul>
