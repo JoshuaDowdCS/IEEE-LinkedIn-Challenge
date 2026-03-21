@@ -1,0 +1,24 @@
+# Node
+node_modules/
+dist/
+build/
+.pnp
+.pnp.js
+.eslintcache
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# Mac
+.DS_Store
+
+# Git
+.env
+.DS_Store
+*.local
