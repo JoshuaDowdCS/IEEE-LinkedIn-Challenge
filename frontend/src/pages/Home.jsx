@@ -199,9 +199,9 @@ export default function Home() {
 
             <div className="relative z-10">
               <p className="text-sm font-medium text-neutral-400 mb-2">Have another question?</p>
-              <a href="mailto:jdowd@chapman.edu" className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors">
+              <a href="mailto:kgarg@chapman.edu" className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors">
                 <Mail className="w-4 h-4" />
-                Contact Joshua Dowd
+                Contact Krish Garg
               </a>
             </div>
           </div>
