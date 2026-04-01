@@ -41,7 +41,7 @@ export default function Home() {
           >
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 font-medium text-sm mb-8">
               <Linkedin className="w-4 h-4" />
-              <span>Kickoff: Monday, April 6th @ 7:00 PM</span>
+              <span>Kickoff: Thursday, April 2nd @ 7:00 PM</span>
             </div>
             
             <h1 className="text-5xl lg:text-7xl font-bold tracking-tight mb-8">
@@ -82,7 +82,7 @@ export default function Home() {
               </div>
               <h3 className="text-2xl font-semibold mb-4 text-white">What & Why?</h3>
               <p className="text-neutral-400 leading-relaxed">
-                Post on LinkedIn once a week for April starting Apr. 6th. Share your thoughts, projects, or insights! It's a fantastic way to improve your professional portfolio and build incredible connections with peers.
+                Post on LinkedIn once a week for April starting Apr. 2nd. Share your thoughts, projects, or insights! It's a fantastic way to improve your professional portfolio and build incredible connections with peers.
               </p>
             </motion.div>
 
