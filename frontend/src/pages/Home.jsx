@@ -41,7 +41,7 @@ export default function Home() {
           >
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-500/10 border border-blue-500/20 text-blue-400 font-medium text-sm mb-8">
               <Linkedin className="w-4 h-4" />
-              <span>Starting April 6th</span>
+              <span>Kickoff: Monday, April 6th @ 7:00 PM</span>
             </div>
             
             <h1 className="text-5xl lg:text-7xl font-bold tracking-tight mb-8">
