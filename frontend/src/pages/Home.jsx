@@ -5,7 +5,6 @@ import {
   Users, 
   Linkedin, 
   ArrowRight, 
-  Slack, 
   Instagram, 
   ChevronRight, 
   Mail, 
@@ -182,13 +181,9 @@ export default function Home() {
             <div className="absolute inset-0 bg-blue-500/5 mix-blend-overlay" />
             <h2 className="text-3xl font-bold text-white mb-4 relative z-10">Stay Updated</h2>
             <p className="text-neutral-300 mb-8 max-w-lg mx-auto relative z-10">
-              Join the official discussion and follow updates on the challenge via Slack and Instagram.
+              Follow updates on the challenge via Instagram and stay connected.
             </p>
-            <div className="flex flex-col sm:flex-row justify-center gap-4 relative z-10">
-              <a href="https://join.slack.com/share/enQtMTA3Nzc5Nzg5MjM5ODQtZGUxZGRkYmYxM2QxM2ViOTYwZTQ2NWY2ODZkNjIxYzRhN2YzZmFkMTEwZjMzZGVjMmI0MTBiYWI3Zjc1YTk2Zg" target="_blank" rel="noreferrer" className="px-6 py-3 rounded-xl bg-indigo-500/20 hover:bg-indigo-500/30 border border-indigo-500/30 text-indigo-300 transition-colors flex items-center justify-center gap-2">
-                <Slack className="w-5 h-5" />
-                Participant Slack
-              </a>
+            <div className="flex justify-center gap-4 relative z-10">
               <a href="https://www.instagram.com/chapmanieee/" target="_blank" rel="noreferrer" className="px-6 py-3 rounded-xl bg-pink-500/20 hover:bg-pink-500/30 border border-pink-500/30 text-pink-300 transition-colors flex items-center justify-center gap-2">
                 <Instagram className="w-5 h-5" />
                 @chapmanieee
